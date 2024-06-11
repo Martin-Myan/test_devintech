@@ -1,0 +1,1 @@
+export const ACCESS_KEY_TOKEN = 'c8adf233694969a8a571925965163d7a'
